@@ -1,0 +1,76 @@
+  /* Float */
+  .box12{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  .box12:hover, .box12:focus, .box12:active{
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+    background-color: rgb(228, 246, 255);
+  }
+  
+  .box12 p{
+      /* animation-play-state: paused; */
+        animation: none !important;
+  }
+
+  .box31{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  .box31:hover, .box31:focus, .box31:active{
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+    background-color: rgb(228, 246, 255);
+  }
+    
+  .box31 p{
+      /* animation-play-state: paused; */
+        animation: none !important;
+  }
+
+
+  .box4{
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 1px 1px 2px rgb(0 0 0 / 50%);
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  .box4:hover, .box4:focus, .box4:active{
+    -webkit-transform: translateY(-8px);
+    transform: translateY(-8px);
+    background-color: rgb(228, 246, 255);
+  }
+    
+  .box4 p{
+      /* animation-play-state: paused; */
+        animation: none !important;
+  }
+    
+    
+  
