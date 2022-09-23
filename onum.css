@@ -1060,10 +1060,16 @@ section .footer{
     .footer ul{
         flex-wrap: wrap;
     }
+    .footer h2{
+        padding-top : 25px;
+    }
     .l-footer p{
         padding: 0;
     }
     .footer{
         padding: 40px 20px;
     }
+    .l-footer {
+    margin-bottom: 2em;
+   }
 }
