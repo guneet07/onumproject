@@ -1040,7 +1040,7 @@ transition: all .3s linear;
 }
 
 .box-h a{
-    color: var(--lblue);
+    color: #a0d0ff;
 }
 .b-footer{
     text-align: center;
