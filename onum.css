@@ -1073,4 +1073,11 @@ section .footer{
     .l-footer {
     margin-bottom: 2em;
    }
+    #cta2 {
+    background-color: var(--orange);
+    border-radius: 20px;
+    margin: 0 10px;
+    background: url(http://wpdemo.archiwp.com/onum/wp-content/uploads/sites/3/2019/10/bg-counter-1.jpg);
+    padding: 30px;
+}
 }
