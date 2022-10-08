@@ -573,13 +573,27 @@ h4.pro{
  .cta-section{
     padding-top: 0;
  }
-.cta-section .container{
+/* .cta-section .container{
     background-color: var(--dblue);
     padding: 100px 40px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
+} */
+
+.cta-section .container {
+    background: url(http://wpdemo.archiwp.com/onum/wp-content/uploads/sites/3/2019/10/rocket2-service2-1.png);
+    background-color: var(--dblue);
+    padding: 100px 40px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-position: top;
+    /* padding-top: 31px; */
+    /* margin-top: -22px; */
 }
 .cta-title h3{
     color: var(--white);
@@ -707,6 +721,9 @@ h4.pro{
     }
     .search-wrapper button{
         margin-top: -38px;
+    }
+    .search-wrapper input {
+        width: 253px;
     }
 }
 
