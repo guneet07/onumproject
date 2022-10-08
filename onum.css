@@ -898,6 +898,7 @@ transition: all .3s linear;
     background-color: var(--orange);
     border-radius: 20px;
     margin: 0 40px;
+    background: url(http://wpdemo.archiwp.com/onum/wp-content/uploads/sites/3/2019/10/bg-counter-1.jpg);
 }
 
 .video{
